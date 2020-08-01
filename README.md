@@ -8,15 +8,15 @@
 
 ## Prerequisite
 
-- Mongo shell installed already-[install mongo shell](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
+- Mongo shell installed already [install mongo shell](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
 - Simple Web-App with simple interface to implement CRUD functionality on the database (For example simple node.js Web-App)
 
 ## let's get it started :
 
 - Sing up for MongoDB Atlas [Account]( https://www.mongodb.com/cloud/atlas)
 
-      o Try Free -> Sing in -> Shared Clusters (Free)
-      o I will go with AWS (Free) or Google Cloud (Free too)
+      o     Try Free -> Sing in -> Shared Clusters (Free)
+      o     I will go with AWS (Free) or Google Cloud (Free too)
       o	N. Virginia (us-east-1) (Free) -> Cluster Tier (M0 Sandbox- Free forever)
       o	Cluster name can change it or just keep it Cluster0 (By default)
       o	Finally click Create Cluster -> It will take 1-3 min provision 
@@ -41,7 +41,7 @@
 
       o	Go to All Clusters on Top right of the page, and Click on Cluster 0 (the one we create already)
       o	Click on the connect button on the right side of the page
-      o Chose the first option “Connect with mongo shell” and you should have mongo shell installed already if not go to-[install mongo shell(https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
+      o     Chose the first option “Connect with mongo shell” and you should have mongo shell installed already if not go to-[install mongo shell(https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
       o	Click “I have the mongo shell installed” and chose the version you have open in mongo shell run ($ mongo –version) to see which version you have. 
       o	On Select your mongo shell version select the version that you have.(in my case 4.2)
       o	Now on “Run your connection string in your command line” it gives A URL to connect to MongoDB Cluster  
@@ -75,7 +75,7 @@
  
 
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Tutirial-Setup-MongoDB)
 
 ---
 
@@ -103,7 +103,7 @@ SOFTWARE.
 
 
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Tutirial-Setup-MongoDB)
 
 ---
 
@@ -111,4 +111,4 @@ SOFTWARE.
 
 - LinkedIn- [Mustafa Alhilo](https://www.linkedin.com/in/mustafa-alhilo-08736214b/)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Tutirial-Setup-MongoDB)
