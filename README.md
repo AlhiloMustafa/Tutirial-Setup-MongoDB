@@ -14,9 +14,8 @@
 ## let's get it started :
 
 - Sing up for MongoDB Atlas [Account]( https://www.mongodb.com/cloud/atlas)
-
-      o     Try Free -> Sing in -> Shared Clusters (Free)
-      o     I will go with AWS (Free) or Google Cloud (Free too)
+      o	Try Free -> Sign in -> Shared Clusters (Free)
+      o	I Will go with AWS(Free), you can do Google Cloud too (Free too)
       o	N. Virginia (us-east-1) (Free) -> Cluster Tier (M0 Sandbox- Free forever)
       o	Cluster name can change it or just keep it Cluster0 (By default)
       o	Finally click Create Cluster -> It will take 1-3 min provision 
