@@ -8,10 +8,10 @@
 
 ## Prerequisite
 
-- Mongo shell installed already [install mongo shell](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
+- Mongo shell installed [install mongo shell](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
 - Simple Web-App with simple interface to implement CRUD functionality on the database (For example simple node.js Web-App)
 
-## let's get it started :
+## let's get started :
 
 - Sing up for MongoDB Atlas [Account]( https://www.mongodb.com/cloud/atlas)
       o	Try Free -> Sign in -> Shared Clusters (Free)
