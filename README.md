@@ -40,13 +40,13 @@
 
       o	Go to All Clusters on Top right of the page, and Click on Cluster 0 (the one we create already)
       o	Click on the connect button on the right side of the page
-      o     Chose the first option “Connect with mongo shell” and you should have mongo shell installed already if not go to-[install mongo shell(https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
+      o     Chose the first option “Connect with mongo shell” and you should have mongo shell installed already if not go to[install mongo shell( https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/)
       o	Click “I have the mongo shell installed” and chose the version you have open in mongo shell run ($ mongo –version) to see which version you have. 
       o	On Select your mongo shell version select the version that you have.(in my case 4.2)
       o	Now on “Run your connection string in your command line” it gives A URL to connect to MongoDB Cluster  
       o	Copy the URL and past it in the command line no matter in which directory and hit ENTER use “test” instead of <dbname>  in the URL. 
       o	It will ask for password that we entered already for the admin-mustafa.
-      o	I hop there is no error , but if there is an error go to -[Troubleshooting Connection Issue]( https://docs.atlas.mongodb.com/troubleshoot-connection/)
+      o	I hop there is no error , but if there is an error go to [Troubleshooting Connection Issue]( https://docs.atlas.mongodb.com/troubleshoot-connection/)
       o	Now we have active session with the MongoDB shell running on Atlas cluster and we can start using Mongo commands for example, “show dbs↵”
       
 - Test the connection MongoDB shell:
